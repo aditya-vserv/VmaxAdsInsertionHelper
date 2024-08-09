@@ -1,0 +1,32 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
+// swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name VmaxAdsInsertionHelper
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVKit
+import Swift
+import UIKit
+import Vmax
+@_exported import VmaxAdsInsertionHelper
+import _Concurrency
+import _StringProcessing
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class VmaxAdsInsertionProcessor : ObjectiveC.NSObject, Vmax.VmaxAdsInsertion {
+  @objc deinit
+  public func process(vmaxAdsInsertionModel: Vmax.VmaxAdsInsertionModel)
+  public func pauseProcessing()
+  public func resumeProcessing()
+  public func stopProcessing()
+}
+extension VmaxAdsInsertionHelper.VmaxAdsInsertionProcessor : Vmax.VmaxAdEventDelegate {
+  public func onAdReady(vmaxAdSpace: Vmax.VmaxAdSpace)
+  public func onAdError(vmaxAdSpace: Vmax.VmaxAdSpace, vmaxError: Vmax.VmaxError)
+  public func onAdRender(vmaxAdSpace: Vmax.VmaxAdSpace)
+  public func onAdRefresh(vmaxAdSpace: Vmax.VmaxAdSpace)
+  public func onAdClick(vmaxAdSpace: Vmax.VmaxAdSpace)
+  public func onAdClose(vmaxAdSpace: Vmax.VmaxAdSpace)
+}
+extension VmaxAdsInsertionHelper.VmaxAdsInsertionProcessor : Vmax.VmaxMediaEvents {
+  public func onSkip<T>(info: T?)
+  public func onComplete<T>(info: T?)
+  public func onClick<T>(info: T?)
+  public func onClickComplete<T>(info: T?)
+}

@@ -1,0 +1,11 @@
+framework module VmaxAdsInsertionHelper {
+  umbrella header "VmaxAdsInsertionHelper.h"
+
+  export *
+  module * { export * }
+}
+
+module VmaxAdsInsertionHelper.Swift {
+  header "VmaxAdsInsertionHelper-Swift.h"
+  requires objc
+}

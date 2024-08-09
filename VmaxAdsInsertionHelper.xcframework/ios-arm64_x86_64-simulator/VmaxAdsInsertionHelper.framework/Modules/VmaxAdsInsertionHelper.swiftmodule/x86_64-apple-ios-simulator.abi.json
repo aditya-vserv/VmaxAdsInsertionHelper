@@ -1,0 +1,636 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "VmaxAdsInsertionHelper",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "VmaxAdsInsertionHelper"
+      },
+      {
+        "kind": "Import",
+        "name": "Vmax",
+        "printedName": "Vmax",
+        "declKind": "Import",
+        "moduleName": "VmaxAdsInsertionHelper"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "VmaxAdsInsertionHelper",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "VmaxAdsInsertionHelper"
+      },
+      {
+        "kind": "Import",
+        "name": "Vmax",
+        "printedName": "Vmax",
+        "declKind": "Import",
+        "moduleName": "VmaxAdsInsertionHelper"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "VmaxAdsInsertionProcessor",
+        "printedName": "VmaxAdsInsertionProcessor",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "process",
+            "printedName": "process(vmaxAdsInsertionModel:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdsInsertionModel",
+                "printedName": "Vmax.VmaxAdsInsertionModel",
+                "usr": "s:4Vmax0A17AdsInsertionModelV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22VmaxAdsInsertionHelper0abC9ProcessorC7process04vmaxbC5Modely0A00abcH0V_tF",
+            "mangledName": "$s22VmaxAdsInsertionHelper0abC9ProcessorC7process04vmaxbC5Modely0A00abcH0V_tF",
+            "moduleName": "VmaxAdsInsertionHelper",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "pauseProcessing",
+            "printedName": "pauseProcessing()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22VmaxAdsInsertionHelper0abC9ProcessorC15pauseProcessingyyF",
+            "mangledName": "$s22VmaxAdsInsertionHelper0abC9ProcessorC15pauseProcessingyyF",
+            "moduleName": "VmaxAdsInsertionHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "resumeProcessing",
+            "printedName": "resumeProcessing()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22VmaxAdsInsertionHelper0abC9ProcessorC16resumeProcessingyyF",
+            "mangledName": "$s22VmaxAdsInsertionHelper0abC9ProcessorC16resumeProcessingyyF",
+            "moduleName": "VmaxAdsInsertionHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "stopProcessing",
+            "printedName": "stopProcessing()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22VmaxAdsInsertionHelper0abC9ProcessorC14stopProcessingyyF",
+            "mangledName": "$s22VmaxAdsInsertionHelper0abC9ProcessorC14stopProcessingyyF",
+            "moduleName": "VmaxAdsInsertionHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onAdReady",
+            "printedName": "onAdReady(vmaxAdSpace:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdSpace",
+                "printedName": "Vmax.VmaxAdSpace",
+                "usr": "s:4Vmax0A7AdSpaceC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22VmaxAdsInsertionHelper0abC9ProcessorC9onAdReady04vmaxG5Spacey0A00agJ0C_tF",
+            "mangledName": "$s22VmaxAdsInsertionHelper0abC9ProcessorC9onAdReady04vmaxG5Spacey0A00agJ0C_tF",
+            "moduleName": "VmaxAdsInsertionHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onAdError",
+            "printedName": "onAdError(vmaxAdSpace:vmaxError:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdSpace",
+                "printedName": "Vmax.VmaxAdSpace",
+                "usr": "s:4Vmax0A7AdSpaceC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxError",
+                "printedName": "Vmax.VmaxError",
+                "usr": "s:4Vmax0A5ErrorC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22VmaxAdsInsertionHelper0abC9ProcessorC9onAdError04vmaxG5Space0iH0y0A00agJ0C_AG0aH0CtF",
+            "mangledName": "$s22VmaxAdsInsertionHelper0abC9ProcessorC9onAdError04vmaxG5Space0iH0y0A00agJ0C_AG0aH0CtF",
+            "moduleName": "VmaxAdsInsertionHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onAdRender",
+            "printedName": "onAdRender(vmaxAdSpace:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdSpace",
+                "printedName": "Vmax.VmaxAdSpace",
+                "usr": "s:4Vmax0A7AdSpaceC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22VmaxAdsInsertionHelper0abC9ProcessorC10onAdRender04vmaxG5Spacey0A00agJ0C_tF",
+            "mangledName": "$s22VmaxAdsInsertionHelper0abC9ProcessorC10onAdRender04vmaxG5Spacey0A00agJ0C_tF",
+            "moduleName": "VmaxAdsInsertionHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onAdRefresh",
+            "printedName": "onAdRefresh(vmaxAdSpace:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdSpace",
+                "printedName": "Vmax.VmaxAdSpace",
+                "usr": "s:4Vmax0A7AdSpaceC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22VmaxAdsInsertionHelper0abC9ProcessorC11onAdRefresh04vmaxG5Spacey0A00agJ0C_tF",
+            "mangledName": "$s22VmaxAdsInsertionHelper0abC9ProcessorC11onAdRefresh04vmaxG5Spacey0A00agJ0C_tF",
+            "moduleName": "VmaxAdsInsertionHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onAdClick",
+            "printedName": "onAdClick(vmaxAdSpace:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdSpace",
+                "printedName": "Vmax.VmaxAdSpace",
+                "usr": "s:4Vmax0A7AdSpaceC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22VmaxAdsInsertionHelper0abC9ProcessorC9onAdClick04vmaxG5Spacey0A00agJ0C_tF",
+            "mangledName": "$s22VmaxAdsInsertionHelper0abC9ProcessorC9onAdClick04vmaxG5Spacey0A00agJ0C_tF",
+            "moduleName": "VmaxAdsInsertionHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onAdClose",
+            "printedName": "onAdClose(vmaxAdSpace:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdSpace",
+                "printedName": "Vmax.VmaxAdSpace",
+                "usr": "s:4Vmax0A7AdSpaceC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22VmaxAdsInsertionHelper0abC9ProcessorC9onAdClose04vmaxG5Spacey0A00agJ0C_tF",
+            "mangledName": "$s22VmaxAdsInsertionHelper0abC9ProcessorC9onAdClose04vmaxG5Spacey0A00agJ0C_tF",
+            "moduleName": "VmaxAdsInsertionHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onSkip",
+            "printedName": "onSkip(info:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "τ_0_0?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22VmaxAdsInsertionHelper0abC9ProcessorC6onSkip4infoyxSg_tlF",
+            "mangledName": "$s22VmaxAdsInsertionHelper0abC9ProcessorC6onSkip4infoyxSg_tlF",
+            "moduleName": "VmaxAdsInsertionHelper",
+            "genericSig": "<τ_0_0>",
+            "sugared_genericSig": "<T>",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onComplete",
+            "printedName": "onComplete(info:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "τ_0_0?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22VmaxAdsInsertionHelper0abC9ProcessorC10onComplete4infoyxSg_tlF",
+            "mangledName": "$s22VmaxAdsInsertionHelper0abC9ProcessorC10onComplete4infoyxSg_tlF",
+            "moduleName": "VmaxAdsInsertionHelper",
+            "genericSig": "<τ_0_0>",
+            "sugared_genericSig": "<T>",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onClick",
+            "printedName": "onClick(info:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "τ_0_0?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22VmaxAdsInsertionHelper0abC9ProcessorC7onClick4infoyxSg_tlF",
+            "mangledName": "$s22VmaxAdsInsertionHelper0abC9ProcessorC7onClick4infoyxSg_tlF",
+            "moduleName": "VmaxAdsInsertionHelper",
+            "genericSig": "<τ_0_0>",
+            "sugared_genericSig": "<T>",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onClickComplete",
+            "printedName": "onClickComplete(info:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "τ_0_0?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22VmaxAdsInsertionHelper0abC9ProcessorC15onClickComplete4infoyxSg_tlF",
+            "mangledName": "$s22VmaxAdsInsertionHelper0abC9ProcessorC15onClickComplete4infoyxSg_tlF",
+            "moduleName": "VmaxAdsInsertionHelper",
+            "genericSig": "<τ_0_0>",
+            "sugared_genericSig": "<T>",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@VmaxAdsInsertionHelper@objc(cs)VmaxAdsInsertionProcessor",
+        "mangledName": "$s22VmaxAdsInsertionHelper0abC9ProcessorC",
+        "moduleName": "VmaxAdsInsertionHelper",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "VmaxAdsInsertion",
+            "printedName": "VmaxAdsInsertion",
+            "usr": "s:4Vmax0A12AdsInsertionP",
+            "mangledName": "$s4Vmax0A12AdsInsertionP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "VmaxAdEventDelegate",
+            "printedName": "VmaxAdEventDelegate",
+            "usr": "s:4Vmax0A15AdEventDelegateP",
+            "mangledName": "$s4Vmax0A15AdEventDelegateP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "VmaxMediaEvents",
+            "printedName": "VmaxMediaEvents",
+            "usr": "s:4Vmax0A11MediaEventsP",
+            "mangledName": "$s4Vmax0A11MediaEventsP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 406,
+      "length": 25,
+      "value": "\"com.vserv.metaDataQueue\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 136,
+      "length": 18,
+      "value": "\"VmaxAdsInsertionHelper.VmaxAdMetaDataItem\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1111,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1152,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1185,
+      "length": 2,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1218,
+      "length": 2,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1259,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1302,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1352,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1444,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1500,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10669,
+      "length": 1,
+      "value": "0"
+    }
+  ]
+}
