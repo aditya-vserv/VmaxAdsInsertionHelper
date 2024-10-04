@@ -549,86 +549,800 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
       "kind": "StringLiteral",
       "offset": 406,
       "length": 25,
       "value": "\"com.vserv.metaDataQueue\""
     },
     {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 1254,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 1548,
+      "length": 42,
+      "value": "\"ContentPlayer doesn't have AVPlayerItem.\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 1692,
+      "length": 41,
+      "value": "\"AVPlayerItemMetadataCollector is empty.\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 2214,
+      "length": 42,
+      "value": "\"ContentPlayer doesn't have AVPlayerItem.\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 2454,
+      "length": 41,
+      "value": "\"AVPlayerItemMetadataCollector is empty.\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 3123,
+      "length": 49,
+      "value": "\"Couldn't fetch the mediaUrl from ContentPlayer.\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 3721,
+      "length": 69,
+      "value": "\"Couldn't convert the duration \""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 3761,
+      "length": 4,
+      "value": "\" from String to TimeInterval\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 3863,
+      "length": 42,
+      "value": "\"Couldn't fetch the Duration from CUE-OUT\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 3985,
+      "length": 40,
+      "value": "\"Error: \""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 4024,
+      "length": 10,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 4346,
+      "length": 17,
+      "value": "\"#EXT-X-CUE-OUT:\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 4420,
+      "length": 3,
+      "value": "\"=\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 4623,
+      "length": 19,
+      "value": "\"#EXT-X-DATERANGE:\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 4708,
+      "length": 3,
+      "value": "\",\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 4802,
+      "length": 11,
+      "value": "\"DURATION=\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 4883,
+      "length": 3,
+      "value": "\"=\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 5059,
+      "length": 19,
+      "value": "\"PLANNED-DURATION=\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 5148,
+      "length": 3,
+      "value": "\"=\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
       "kind": "StringLiteral",
       "offset": 136,
       "length": 18,
       "value": "\"VmaxAdsInsertionHelper.VmaxAdMetaDataItem\""
     },
     {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 6576,
+      "length": 47,
+      "value": "\"Couldn't convert AVMetaDataItem.key to String\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 6782,
+      "length": 49,
+      "value": "\"Couldn't find the reference for SCTE35 delegate\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 6928,
+      "length": 11,
+      "value": "\"SCTE35-IN\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
+      "kind": "StringLiteral",
+      "offset": 7206,
+      "length": 12,
+      "value": "\"SCTE35-OUT\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "IntegerLiteral",
       "offset": 1111,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "IntegerLiteral",
       "offset": 1152,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "IntegerLiteral",
       "offset": 1185,
       "length": 2,
-      "value": "1"
+      "value": "-1"
     },
     {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "IntegerLiteral",
       "offset": 1218,
       "length": 2,
-      "value": "1"
+      "value": "-1"
     },
     {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "BooleanLiteral",
       "offset": 1259,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "BooleanLiteral",
       "offset": 1302,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "IntegerLiteral",
       "offset": 1352,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "BooleanLiteral",
       "offset": 1444,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "BooleanLiteral",
       "offset": 1500,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 2260,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3098,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3182,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3479,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 3499,
+      "length": 139,
+      "value": "\"VmaxAdsInsertion process not started, couldn't find VmaxAdSpace. Pass atleast one VmaxAdSpace object using `addAdSpace(adSpace:)` method.\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 3984,
+      "length": 112,
+      "value": "\"VmaxAdsInsertion process not started, Couldn't listen for SCTE35 event due to AVPlayer object is empty or nil.\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4411,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4700,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4980,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 6921,
+      "length": 72,
+      "value": "\"VmaxAdsInsertion process not started, AVPlayer object is empty or nil.\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7251,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7284,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7783,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7890,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8463,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8516,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 8906,
+      "length": 53,
+      "value": "\"Couldn't find the index in processingAdSpaces array\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9000,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9244,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "FloatLiteral",
+      "offset": 10198,
+      "length": 4,
+      "value": "15.0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10360,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "IntegerLiteral",
       "offset": 10669,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10731,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10820,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10908,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10935,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11017,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11101,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11207,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11221,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11312,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11326,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 12022,
+      "length": 108,
+      "value": "\"Skipping this Ad Break - Either the App is in the background or the AdsInsertionHandler is in pause state.\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12213,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 12434,
+      "length": 46,
+      "value": "\"AdsInsertionDelegate object is empty or nil.\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 12592,
+      "length": 50,
+      "value": "\"Skipping this Ad Break - No Ad is ready-to-play.\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12847,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12974,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13019,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 13612,
+      "length": 72,
+      "value": "\"Skipping this Ad Break - Ad Duration is less than Minimum Ad Duration.\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13791,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14219,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 14415,
+      "length": 62,
+      "value": "\"Couldn't find MinimumBreakDuration and MaximumBreakDuration.\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14803,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 14952,
+      "length": 37,
+      "value": "\"AdContainer object is empty or nil.\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 15190,
+      "length": 46,
+      "value": "\"AdsInsertionDelegate object is empty or nil.\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15419,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15891,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 16203,
+      "length": 81,
+      "value": "\"Developer Callback - Ad Ready on index \""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 16283,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16318,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 16658,
+      "length": 81,
+      "value": "\"Developer Callback - Ad Error on index \""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 16738,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17280,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 17599,
+      "length": 82,
+      "value": "\"Developer Callback - Ad Render on index \""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 17680,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18049,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18094,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18190,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18362,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18484,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18527,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18612,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 18834,
+      "length": 83,
+      "value": "\"Developer Callback - Ad Refresh on index \""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 18916,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 18991,
+      "length": 83,
+      "value": "\"Developer Callback - Ad Clicked on index \""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 19073,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 19148,
+      "length": 82,
+      "value": "\"Developer Callback - Ad Closed on index \""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 19229,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19662,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19746,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19835,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19977,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20061,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20150,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20247,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20361,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20496,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20587,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20632,
       "length": 1,
       "value": "0"
     }
