@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		IE5yVPSW3B2Spx091RrqQ+xFf54=
+		G4TXTshNi0uP80wZBwIj7O9kDl8=
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		G48ni2rZdAD6B9mefXlyo9IGDQk=
+		DD9Kr1LC0XiVZ/VdUUPBZBFpIC0=
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		IE5yVPSW3B2Spx091RrqQ+xFf54=
+		G4TXTshNi0uP80wZBwIj7O9kDl8=
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		u5eu5119DJE+a5PbmRR6KYgdI6Q=
+		rFVY7XkobqvfUpBb1E7VeISzI0o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1cpKrEzLlC42yarCvP7ormvKTsWAgV8dakQwrPVP0V0=
+			LOPTi0L/mgla+Fk8Vu3jNrKWKVDUkq8r4jNyioBliP4=
 			</data>
 		</dict>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -109,14 +109,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VBdaBl6zElXyAh5GCKplbpwlkvmsLGcl9wr4PPx2QFQ=
+			pMEzCniqEixzw32qSJDlH7iRUnz0EwgPxkMN2LNbfxU=
 			</data>
 		</dict>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1cpKrEzLlC42yarCvP7ormvKTsWAgV8dakQwrPVP0V0=
+			LOPTi0L/mgla+Fk8Vu3jNrKWKVDUkq8r4jNyioBliP4=
 			</data>
 		</dict>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			39knHRvMdTtkV4yZoMlUz6QS1b8tfL99n+mbwYn8vQo=
+			TaoSftgcXj19XzqS59XAalZhbCq3T1nk8m69d+rkBMo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
