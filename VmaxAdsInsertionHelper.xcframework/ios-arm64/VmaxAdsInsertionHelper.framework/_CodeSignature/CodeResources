@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		G4TXTshNi0uP80wZBwIj7O9kDl8=
+		a6LR8HdQs0p80CoxvaL5qduM3nE=
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		BSMyi15O1+2RC4HZ7qNjoM7I7Bo=
+		E7qWTDkZZi/kh7VXaQekwpUABTA=
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		BSMyi15O1+2RC4HZ7qNjoM7I7Bo=
+		E7qWTDkZZi/kh7VXaQekwpUABTA=
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		nkp/kn30FanhtqLtEnhMJNHk43A=
+		w29eJi9TWOitT3QpDm9PCREh0YM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,14 +61,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LOPTi0L/mgla+Fk8Vu3jNrKWKVDUkq8r4jNyioBliP4=
+			IbeDMUxB0ILkBpI0uqPHq7LKsGOPlHnB/sb3LJiMoE0=
 			</data>
 		</dict>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dTcqj7Zmvrqqq5OLGA6kMTOFStjeWRF03q3UeTpzQ4A=
+			2RkEX8UsO97YE3piPgMNt3cZ8r28xq+2kWNKn3ZT9uw=
 			</data>
 		</dict>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dTcqj7Zmvrqqq5OLGA6kMTOFStjeWRF03q3UeTpzQ4A=
+			2RkEX8UsO97YE3piPgMNt3cZ8r28xq+2kWNKn3ZT9uw=
 			</data>
 		</dict>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G3XmJ6Ys55Y7NkwQh0kfu3oBn//pM/W8yqqqGRTdIV0=
+			FMUT4dSebod9D3cW8WtYjw5ztyfVAb7TzJHyTe+88uA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -11,6 +11,7 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class VmaxAdsInsertionProcessor : ObjectiveC.NSObject, Vmax.VmaxAdsInsertion {
+  public var disableAdsOnBreakContinuation: Swift.Bool
   @objc deinit
   public func process(vmaxAdsInsertionModel: Vmax.VmaxAdsInsertionModel)
   public func pauseProcessing()
