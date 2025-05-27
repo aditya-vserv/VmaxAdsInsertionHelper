@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name = "VmaxAdsInsertionHelper"
-  spec.version = "1.0.4"
+  spec.version = "1.0.5"
   spec.summary = "VmaxAdsInsertionHelper allows the publishers to display ads in (HLS)Live Stream"
   spec.description = "VmaxAdsInsertionHelper allows the publishers to display ads in (HLS)Live Stream by reading SCTE-35 marker."
   spec.homepage = "https://www.vmax.com"
