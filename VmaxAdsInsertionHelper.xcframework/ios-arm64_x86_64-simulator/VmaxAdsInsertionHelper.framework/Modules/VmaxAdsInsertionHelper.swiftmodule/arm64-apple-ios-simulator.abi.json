@@ -30,6 +30,26 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "VmaxAdsInsertionHelper",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "VmaxAdsInsertionHelper",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -643,6 +663,63 @@
             "mangledName": "$s4Vmax0A11MediaEventsP"
           }
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "VmaxAdsInsertionHelper",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "VmaxAdsInsertionHelper",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "VmaxAdsInsertionHelper",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "VmaxAdsInsertionHelper",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "VmaxAdsInsertionHelper",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Vmax",
+        "printedName": "Vmax",
+        "declKind": "Import",
+        "moduleName": "VmaxAdsInsertionHelper"
       }
     ],
     "json_format_version": 8
@@ -652,78 +729,29 @@
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
       "kind": "StringLiteral",
       "offset": 406,
-      "length": 25,
-      "value": "\"com.vserv.metaDataQueue\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
-      "kind": "StringLiteral",
-      "offset": 951,
-      "length": 2,
-      "value": "\"\""
+      "length": 24,
+      "value": "\"com.vmax.metaDataQueue\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
       "kind": "BooleanLiteral",
-      "offset": 992,
+      "offset": 1408,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
       "kind": "BooleanLiteral",
-      "offset": 1034,
+      "offset": 1450,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
       "kind": "BooleanLiteral",
-      "offset": 1089,
+      "offset": 1505,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
-      "kind": "StringLiteral",
-      "offset": 16554,
-      "length": 9,
-      "value": "\"UNKNOWN\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
-      "kind": "StringLiteral",
-      "offset": 16591,
-      "length": 18,
-      "value": "\"#EXT-X-DATERANGE\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
-      "kind": "StringLiteral",
-      "offset": 16646,
-      "length": 27,
-      "value": "\"#EXT-X-SPLICEPOINT-SCTE35\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
-      "kind": "StringLiteral",
-      "offset": 16704,
-      "length": 21,
-      "value": "\"#EXT-X-CUE-OUT-CONT\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
-      "kind": "StringLiteral",
-      "offset": 16751,
-      "length": 16,
-      "value": "\"#EXT-X-CUE-OUT\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdMetaDataItem.swift",
-      "kind": "StringLiteral",
-      "offset": 16792,
-      "length": 15,
-      "value": "\"#EXT-X-CUE-IN\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
@@ -822,6 +850,69 @@
       "offset": 17937,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/Internal\/Enum\/VmaxSCTE35Marker.swift",
+      "kind": "StringLiteral",
+      "offset": 188,
+      "length": 9,
+      "value": "\"UNKNOWN\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/Internal\/Enum\/VmaxSCTE35Marker.swift",
+      "kind": "StringLiteral",
+      "offset": 230,
+      "length": 23,
+      "value": "\"#EXT-X-TARGETDURATION\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/Internal\/Enum\/VmaxSCTE35Marker.swift",
+      "kind": "StringLiteral",
+      "offset": 289,
+      "length": 26,
+      "value": "\"#EXT-X-PROGRAM-DATE-TIME\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/Internal\/Enum\/VmaxSCTE35Marker.swift",
+      "kind": "StringLiteral",
+      "offset": 343,
+      "length": 18,
+      "value": "\"#EXT-X-DATERANGE\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/Internal\/Enum\/VmaxSCTE35Marker.swift",
+      "kind": "StringLiteral",
+      "offset": 398,
+      "length": 27,
+      "value": "\"#EXT-X-SPLICEPOINT-SCTE35\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/Internal\/Enum\/VmaxSCTE35Marker.swift",
+      "kind": "StringLiteral",
+      "offset": 455,
+      "length": 20,
+      "value": "\"#EXT-OATCLS-SCTE35\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/Internal\/Enum\/VmaxSCTE35Marker.swift",
+      "kind": "StringLiteral",
+      "offset": 506,
+      "length": 21,
+      "value": "\"#EXT-X-CUE-OUT-CONT\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/Internal\/Enum\/VmaxSCTE35Marker.swift",
+      "kind": "StringLiteral",
+      "offset": 553,
+      "length": 16,
+      "value": "\"#EXT-X-CUE-OUT\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/Internal\/Enum\/VmaxSCTE35Marker.swift",
+      "kind": "StringLiteral",
+      "offset": 594,
+      "length": 15,
+      "value": "\"#EXT-X-CUE-IN\""
     }
   ]
 }

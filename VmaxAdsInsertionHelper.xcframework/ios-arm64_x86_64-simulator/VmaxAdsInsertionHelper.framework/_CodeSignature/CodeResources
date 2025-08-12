@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		mOtW3RzaISVMB6ewSC8izNdI/X4=
+		d0Qj0t274/vFMOPqmdo5VXYDFao=
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		AFIfqomA6JZOee9b9rPL/D47SC8=
+		HKrH5zsOWry1e8FNb7suL6NQWyM=
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		AFIfqomA6JZOee9b9rPL/D47SC8=
+		HKrH5zsOWry1e8FNb7suL6NQWyM=
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zW6SCV+rNnWk7WR4/xn/o7LVVKM=
+		JiOl8+6ugx01jYCAW+na4ECkmxw=
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		mOtW3RzaISVMB6ewSC8izNdI/X4=
+		d0Qj0t274/vFMOPqmdo5VXYDFao=
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		DTXUI2WDOFLy+5GtoL7FDpmAQgI=
+		YgIYbx0/6lPzdWJeKUaCK8sdtUE=
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		DTXUI2WDOFLy+5GtoL7FDpmAQgI=
+		YgIYbx0/6lPzdWJeKUaCK8sdtUE=
 		</data>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vbhssZOYwljdaalJEpSzAZEU3hM=
+		A9blrV2hCJq5hPY5XpaUxXVUfjE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S68v3fF47zspkNZoL3x7PrQjsELeI6WeN5GVcNsSx9g=
+			XJhUGxqX7jazD0DKlBW5sTqvVwfVtSAs9dXc266opBo=
 			</data>
 		</dict>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sEkPuRDd5UD8xrFsZ0Uv5wRIh5S8o41MqfPZWqhGICc=
+			xahonRhzngC0Driw6vqT8NyrkZLiLp5hZpjRkxQI2ps=
 			</data>
 		</dict>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sEkPuRDd5UD8xrFsZ0Uv5wRIh5S8o41MqfPZWqhGICc=
+			xahonRhzngC0Driw6vqT8NyrkZLiLp5hZpjRkxQI2ps=
 			</data>
 		</dict>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kfvERM1I0C3ADALX4xDXN+edUJBcmJz7Ghl7jaTTD8w=
+			HQYseYLWVdrfRnyRogQnp2y0QXsN93hMQw+aueom/yk=
 			</data>
 		</dict>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S68v3fF47zspkNZoL3x7PrQjsELeI6WeN5GVcNsSx9g=
+			XJhUGxqX7jazD0DKlBW5sTqvVwfVtSAs9dXc266opBo=
 			</data>
 		</dict>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			80L4hoPlG4ESizMyrNeeL9bw7eCKKEXLMQGmmqvN0zE=
+			6zYhrkPUgkxYtNuPux0BSjGPftUFJtqz4EryaZDaJEg=
 			</data>
 		</dict>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			80L4hoPlG4ESizMyrNeeL9bw7eCKKEXLMQGmmqvN0zE=
+			6zYhrkPUgkxYtNuPux0BSjGPftUFJtqz4EryaZDaJEg=
 			</data>
 		</dict>
 		<key>Modules/VmaxAdsInsertionHelper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zTg6SC3S1RniUzekW/ohHfkHClPH7gfDVW23I8wKc78=
+			29iyeZpB7jsHLLSioPG71Q+pFrPshg00C2s1/rUTKZY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
