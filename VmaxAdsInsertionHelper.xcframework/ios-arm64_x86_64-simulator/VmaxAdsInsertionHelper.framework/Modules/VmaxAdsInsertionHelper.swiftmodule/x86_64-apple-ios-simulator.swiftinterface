@@ -11,6 +11,12 @@ import Vmax
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+public protocol VmaxVideoPlayerManifest : AnyObject {
+  func set(delegate: any VmaxAdsInsertionHelper.VmaxVideoPlayerManifestDelegate)
+}
+public protocol VmaxVideoPlayerManifestDelegate : AnyObject {
+  func onManifestUpdate(url: Swift.String, manifest: Swift.String)
+}
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class VmaxAdsInsertionProcessor : ObjectiveC.NSObject, Vmax.VmaxAdsInsertion {
   public var disableAdsOnBreakContinuation: Swift.Bool
   @objc deinit
@@ -23,6 +29,7 @@ extension VmaxAdsInsertionHelper.VmaxAdsInsertionProcessor : Vmax.VmaxAdEventDel
   public func onAdReady(vmaxAdSpace: Vmax.VmaxAdSpace)
   public func onAdError(vmaxAdSpace: Vmax.VmaxAdSpace, vmaxError: Vmax.VmaxError)
   public func onAdRender(vmaxAdSpace: Vmax.VmaxAdSpace)
+  public func onAdImpression(vmaxAdSpace: Vmax.VmaxAdSpace)
   public func onAdRefresh(vmaxAdSpace: Vmax.VmaxAdSpace)
   public func onAdClick(vmaxAdSpace: Vmax.VmaxAdSpace)
   public func onAdClose(vmaxAdSpace: Vmax.VmaxAdSpace)
