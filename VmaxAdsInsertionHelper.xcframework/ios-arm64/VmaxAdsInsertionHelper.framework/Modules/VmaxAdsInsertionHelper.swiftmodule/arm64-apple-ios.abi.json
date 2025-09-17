@@ -39,6 +39,132 @@
         ]
       },
       {
+        "kind": "TypeDecl",
+        "name": "VmaxVideoPlayerManifest",
+        "printedName": "VmaxVideoPlayerManifest",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "set",
+            "printedName": "set(delegate:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxVideoPlayerManifestDelegate",
+                "printedName": "any VmaxAdsInsertionHelper.VmaxVideoPlayerManifestDelegate",
+                "usr": "s:22VmaxAdsInsertionHelper0A27VideoPlayerManifestDelegateP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22VmaxAdsInsertionHelper0A19VideoPlayerManifestP3set8delegateyAA0aefG8Delegate_p_tF",
+            "mangledName": "$s22VmaxAdsInsertionHelper0A19VideoPlayerManifestP3set8delegateyAA0aefG8Delegate_p_tF",
+            "moduleName": "VmaxAdsInsertionHelper",
+            "genericSig": "<τ_0_0 where τ_0_0 : VmaxAdsInsertionHelper.VmaxVideoPlayerManifest>",
+            "sugared_genericSig": "<Self where Self : VmaxAdsInsertionHelper.VmaxVideoPlayerManifest>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:22VmaxAdsInsertionHelper0A19VideoPlayerManifestP",
+        "mangledName": "$s22VmaxAdsInsertionHelper0A19VideoPlayerManifestP",
+        "moduleName": "VmaxAdsInsertionHelper",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "VmaxVideoPlayerManifestDelegate",
+        "printedName": "VmaxVideoPlayerManifestDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "onManifestUpdate",
+            "printedName": "onManifestUpdate(url:manifest:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22VmaxAdsInsertionHelper0A27VideoPlayerManifestDelegateP02onG6Update3url8manifestySS_SStF",
+            "mangledName": "$s22VmaxAdsInsertionHelper0A27VideoPlayerManifestDelegateP02onG6Update3url8manifestySS_SStF",
+            "moduleName": "VmaxAdsInsertionHelper",
+            "genericSig": "<τ_0_0 where τ_0_0 : VmaxAdsInsertionHelper.VmaxVideoPlayerManifestDelegate>",
+            "sugared_genericSig": "<Self where Self : VmaxAdsInsertionHelper.VmaxVideoPlayerManifestDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:22VmaxAdsInsertionHelper0A27VideoPlayerManifestDelegateP",
+        "mangledName": "$s22VmaxAdsInsertionHelper0A27VideoPlayerManifestDelegateP",
+        "moduleName": "VmaxAdsInsertionHelper",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
@@ -330,6 +456,33 @@
             "declKind": "Func",
             "usr": "s:22VmaxAdsInsertionHelper0abC9ProcessorC10onAdRender04vmaxG5Spacey0A00agJ0C_tF",
             "mangledName": "$s22VmaxAdsInsertionHelper0abC9ProcessorC10onAdRender04vmaxG5Spacey0A00agJ0C_tF",
+            "moduleName": "VmaxAdsInsertionHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onAdImpression",
+            "printedName": "onAdImpression(vmaxAdSpace:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdSpace",
+                "printedName": "Vmax.VmaxAdSpace",
+                "usr": "s:4Vmax0A7AdSpaceC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22VmaxAdsInsertionHelper0abC9ProcessorC14onAdImpression04vmaxG5Spacey0A00agJ0C_tF",
+            "mangledName": "$s22VmaxAdsInsertionHelper0abC9ProcessorC14onAdImpression04vmaxG5Spacey0A00agJ0C_tF",
             "moduleName": "VmaxAdsInsertionHelper",
             "declAttributes": [
               "AccessControl"
@@ -756,98 +909,112 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "IntegerLiteral",
-      "offset": 1111,
+      "offset": 1073,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "IntegerLiteral",
-      "offset": 1152,
+      "offset": 1395,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "IntegerLiteral",
-      "offset": 1185,
+      "offset": 1524,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1565,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1598,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "IntegerLiteral",
-      "offset": 1218,
+      "offset": 1631,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "BooleanLiteral",
-      "offset": 1259,
+      "offset": 1672,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "BooleanLiteral",
-      "offset": 1302,
+      "offset": 1715,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "IntegerLiteral",
-      "offset": 1352,
+      "offset": 1765,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "BooleanLiteral",
-      "offset": 1444,
+      "offset": 1857,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "BooleanLiteral",
-      "offset": 1500,
+      "offset": 1913,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "IntegerLiteral",
-      "offset": 1681,
+      "offset": 2094,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "BooleanLiteral",
-      "offset": 1735,
+      "offset": 2148,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "BooleanLiteral",
-      "offset": 1788,
+      "offset": 2201,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "IntegerLiteral",
-      "offset": 13158,
+      "offset": 15873,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-adsinsertion\/VmaxAdsInsertionHelper\/VmaxAdsInsertionHelper\/Source\/VmaxAdsInsertionProcessor.swift",
       "kind": "BooleanLiteral",
-      "offset": 17937,
+      "offset": 21817,
       "length": 5,
       "value": "false"
     },
